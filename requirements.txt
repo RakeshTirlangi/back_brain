@@ -201,7 +201,7 @@ scikit-learn==1.4.2
 scipy==1.13.0
 seaborn==0.13.2
 Send2Trash==1.8.3
-setuptools==69.5.1
+setuptools==75.2.0
 shellingham==1.5.4
 six==1.16.0
 smmap==5.0.1
@@ -216,7 +216,6 @@ tbb==2021.12.0
 tenacity==8.2.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
 tensorflow-intel==2.16.1
 termcolor==2.4.0
 terminado==0.18.1
@@ -247,7 +246,7 @@ webencodings==0.5.1
 websocket-client==1.8.0
 websockets==13.1
 Werkzeug==3.0.2
-wheel==0.43.0
+wheel==0.44.0
 widgetsnbextension==4.0.10
 wrapt==1.16.0
 yarl==1.9.4
